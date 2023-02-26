@@ -1,0 +1,15 @@
+E:\GeekBrains\C#\Examples\Examples011_ArrayLibrary\obj\Debug\net6.0\Examples011_ArrayLibrary.csproj.AssemblyReference.cache
+E:\GeekBrains\C#\Examples\Examples011_ArrayLibrary\obj\Debug\net6.0\Examples011_ArrayLibrary.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\C#\Examples\Examples011_ArrayLibrary\obj\Debug\net6.0\Examples011_ArrayLibrary.AssemblyInfoInputs.cache
+E:\GeekBrains\C#\Examples\Examples011_ArrayLibrary\obj\Debug\net6.0\Examples011_ArrayLibrary.AssemblyInfo.cs
+E:\GeekBrains\C#\Examples\Examples011_ArrayLibrary\obj\Debug\net6.0\Examples011_ArrayLibrary.csproj.CoreCompileInputs.cache
+E:\GeekBrains\C#\Examples\Examples011_ArrayLibrary\bin\Debug\net6.0\Examples011_ArrayLibrary.exe
+E:\GeekBrains\C#\Examples\Examples011_ArrayLibrary\bin\Debug\net6.0\Examples011_ArrayLibrary.deps.json
+E:\GeekBrains\C#\Examples\Examples011_ArrayLibrary\bin\Debug\net6.0\Examples011_ArrayLibrary.runtimeconfig.json
+E:\GeekBrains\C#\Examples\Examples011_ArrayLibrary\bin\Debug\net6.0\Examples011_ArrayLibrary.dll
+E:\GeekBrains\C#\Examples\Examples011_ArrayLibrary\bin\Debug\net6.0\Examples011_ArrayLibrary.pdb
+E:\GeekBrains\C#\Examples\Examples011_ArrayLibrary\obj\Debug\net6.0\Examples011_ArrayLibrary.dll
+E:\GeekBrains\C#\Examples\Examples011_ArrayLibrary\obj\Debug\net6.0\refint\Examples011_ArrayLibrary.dll
+E:\GeekBrains\C#\Examples\Examples011_ArrayLibrary\obj\Debug\net6.0\Examples011_ArrayLibrary.pdb
+E:\GeekBrains\C#\Examples\Examples011_ArrayLibrary\obj\Debug\net6.0\Examples011_ArrayLibrary.genruntimeconfig.cache
+E:\GeekBrains\C#\Examples\Examples011_ArrayLibrary\obj\Debug\net6.0\ref\Examples011_ArrayLibrary.dll
