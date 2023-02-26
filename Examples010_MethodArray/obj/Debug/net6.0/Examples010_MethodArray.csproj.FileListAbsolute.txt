@@ -1,0 +1,15 @@
+E:\GeekBrains\C#\Examples\Examples010_MethodArray\bin\Debug\net6.0\Examples010_MethodArray.exe
+E:\GeekBrains\C#\Examples\Examples010_MethodArray\bin\Debug\net6.0\Examples010_MethodArray.deps.json
+E:\GeekBrains\C#\Examples\Examples010_MethodArray\bin\Debug\net6.0\Examples010_MethodArray.runtimeconfig.json
+E:\GeekBrains\C#\Examples\Examples010_MethodArray\bin\Debug\net6.0\Examples010_MethodArray.dll
+E:\GeekBrains\C#\Examples\Examples010_MethodArray\bin\Debug\net6.0\Examples010_MethodArray.pdb
+E:\GeekBrains\C#\Examples\Examples010_MethodArray\obj\Debug\net6.0\Examples010_MethodArray.csproj.AssemblyReference.cache
+E:\GeekBrains\C#\Examples\Examples010_MethodArray\obj\Debug\net6.0\Examples010_MethodArray.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\C#\Examples\Examples010_MethodArray\obj\Debug\net6.0\Examples010_MethodArray.AssemblyInfoInputs.cache
+E:\GeekBrains\C#\Examples\Examples010_MethodArray\obj\Debug\net6.0\Examples010_MethodArray.AssemblyInfo.cs
+E:\GeekBrains\C#\Examples\Examples010_MethodArray\obj\Debug\net6.0\Examples010_MethodArray.csproj.CoreCompileInputs.cache
+E:\GeekBrains\C#\Examples\Examples010_MethodArray\obj\Debug\net6.0\Examples010_MethodArray.dll
+E:\GeekBrains\C#\Examples\Examples010_MethodArray\obj\Debug\net6.0\refint\Examples010_MethodArray.dll
+E:\GeekBrains\C#\Examples\Examples010_MethodArray\obj\Debug\net6.0\Examples010_MethodArray.pdb
+E:\GeekBrains\C#\Examples\Examples010_MethodArray\obj\Debug\net6.0\Examples010_MethodArray.genruntimeconfig.cache
+E:\GeekBrains\C#\Examples\Examples010_MethodArray\obj\Debug\net6.0\ref\Examples010_MethodArray.dll
