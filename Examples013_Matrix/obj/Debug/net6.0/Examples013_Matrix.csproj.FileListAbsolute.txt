@@ -1,0 +1,15 @@
+E:\GeekBrains\C#\Examples\Examples013_Matrix\bin\Debug\net6.0\Examples013_Matrix.exe
+E:\GeekBrains\C#\Examples\Examples013_Matrix\bin\Debug\net6.0\Examples013_Matrix.deps.json
+E:\GeekBrains\C#\Examples\Examples013_Matrix\bin\Debug\net6.0\Examples013_Matrix.runtimeconfig.json
+E:\GeekBrains\C#\Examples\Examples013_Matrix\bin\Debug\net6.0\Examples013_Matrix.dll
+E:\GeekBrains\C#\Examples\Examples013_Matrix\bin\Debug\net6.0\Examples013_Matrix.pdb
+E:\GeekBrains\C#\Examples\Examples013_Matrix\obj\Debug\net6.0\Examples013_Matrix.csproj.AssemblyReference.cache
+E:\GeekBrains\C#\Examples\Examples013_Matrix\obj\Debug\net6.0\Examples013_Matrix.GeneratedMSBuildEditorConfig.editorconfig
+E:\GeekBrains\C#\Examples\Examples013_Matrix\obj\Debug\net6.0\Examples013_Matrix.AssemblyInfoInputs.cache
+E:\GeekBrains\C#\Examples\Examples013_Matrix\obj\Debug\net6.0\Examples013_Matrix.AssemblyInfo.cs
+E:\GeekBrains\C#\Examples\Examples013_Matrix\obj\Debug\net6.0\Examples013_Matrix.csproj.CoreCompileInputs.cache
+E:\GeekBrains\C#\Examples\Examples013_Matrix\obj\Debug\net6.0\Examples013_Matrix.dll
+E:\GeekBrains\C#\Examples\Examples013_Matrix\obj\Debug\net6.0\refint\Examples013_Matrix.dll
+E:\GeekBrains\C#\Examples\Examples013_Matrix\obj\Debug\net6.0\Examples013_Matrix.pdb
+E:\GeekBrains\C#\Examples\Examples013_Matrix\obj\Debug\net6.0\Examples013_Matrix.genruntimeconfig.cache
+E:\GeekBrains\C#\Examples\Examples013_Matrix\obj\Debug\net6.0\ref\Examples013_Matrix.dll
